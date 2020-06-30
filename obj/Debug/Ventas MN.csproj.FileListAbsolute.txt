@@ -1,0 +1,10 @@
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\bin\Debug\Ventas MN.exe.config
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\bin\Debug\Ventas MN.exe
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\bin\Debug\Ventas MN.pdb
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas_MN.Ventas.resources
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas_MN.Properties.Resources.resources
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.csproj.GenerateResource.cache
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.exe
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.pdb
