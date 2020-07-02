@@ -8,3 +8,13 @@ C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.csproj.Gene
 C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.csproj.CoreCompileInputs.cache
 C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.exe
 C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.pdb
+C:\Users\Marcos\Source\Repos\Ventas-MN\bin\Debug\Ventas MN.exe.config
+C:\Users\Marcos\Source\Repos\Ventas-MN\bin\Debug\Ventas MN.exe
+C:\Users\Marcos\Source\Repos\Ventas-MN\bin\Debug\Ventas MN.pdb
+C:\Users\Marcos\Source\Repos\Ventas-MN\obj\Debug\Ventas MN.csprojAssemblyReference.cache
+C:\Users\Marcos\Source\Repos\Ventas-MN\obj\Debug\Ventas_MN.Ventas.resources
+C:\Users\Marcos\Source\Repos\Ventas-MN\obj\Debug\Ventas_MN.Properties.Resources.resources
+C:\Users\Marcos\Source\Repos\Ventas-MN\obj\Debug\Ventas MN.csproj.GenerateResource.cache
+C:\Users\Marcos\Source\Repos\Ventas-MN\obj\Debug\Ventas MN.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Source\Repos\Ventas-MN\obj\Debug\Ventas MN.exe
+C:\Users\Marcos\Source\Repos\Ventas-MN\obj\Debug\Ventas MN.pdb

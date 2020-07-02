@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-frmStock.Designer",
+      "appliesTo": "frmStock.Designer.cs",
+      "type": "launch"
+    }
+  ]
+}
