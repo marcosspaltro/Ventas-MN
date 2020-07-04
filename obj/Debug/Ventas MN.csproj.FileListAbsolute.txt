@@ -8,3 +8,4 @@ C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.csproj.Gene
 C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.csproj.CoreCompileInputs.cache
 C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.exe
 C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas MN.pdb
+C:\Users\Marcos\source\repos\Ventas MN\Ventas MN\obj\Debug\Ventas_MN.frmProductos.resources
